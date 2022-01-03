@@ -1,5 +1,5 @@
 /*
-cron "0 6 * * *" jd_speed_sign_part1.js, tag:京东极速版任务
+cron "0 6 * * *" jd_speed_sign_part1.js, tag:京东极速版任务1
 */
  //详细说明参考 https://github.com/ccwav/QLScript2.
 const $ = new Env('京东极速版任务1');
